@@ -8,3 +8,7 @@ jos izmena
 izmene vezane za verziju 2
 
 bugfix za master branch
+
+
+jos izmena za ver2 --blabla
+jos izmena za ver2 --blabla23423fdsva
