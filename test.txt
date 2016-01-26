@@ -4,3 +4,5 @@ izmena2
 izbacene srednje izmene.
 
 jos izmena
+
+bugfix za master branch
