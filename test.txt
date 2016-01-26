@@ -4,3 +4,6 @@ izmena2
 izbacene srednje izmene.
 
 jos izmena
+
+
+izmene vezane za verziju 2
